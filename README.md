@@ -16,7 +16,7 @@
 
 本项目是根据[《动手学深度学习》](https://zh.d2l.ai/)的 PyTorch 中文学习笔记，包括重要知识点汇总和代码测试。同时搭配这个[仓库](https://github.com/ShusenTang/Dive-into-DL-PyTorch) 一起学习。原书地址：[中文](https://zh.d2l.ai/)，[英文](https://d2l.ai/)。GitHub 地址：https://github.com/d2l-ai/d2l-zh。
 
-This repository includes personal PyTorch study notes from the original [Dive Into Deep Learning](https://d2l.ai/) book by Aston Zhang, Zachary C. Lipton, Mu Li, Alex J. Smola and all the community contributors. Original Book: [English](https://d2l.ai/), [Chinese](https://zh.d2l.ai/). GitHub of the original book: https://github.com/d2l-ai/d2l-en. 
+This repository includes PyTorch study notes from the original [Dive Into Deep Learning](https://d2l.ai/) book by Aston Zhang, Zachary C. Lipton, Mu Li, Alex J. Smola and all the community contributors. Original Book: [English](https://d2l.ai/), [Chinese](https://zh.d2l.ai/). GitHub of the original book: https://github.com/d2l-ai/d2l-en. 
 
 ## **Table of Contents**
 
