@@ -29,7 +29,9 @@ This repository includes PyTorch study notes from the original [Dive Into Deep L
 | [用于回归的线性神经网络（Linear Neural Networks for Regression）](https://github.com/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/03_D2L_Linear_Neural_Networks_for_Regression.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/03_D2L_Linear_Neural_Networks_for_Regression.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [用于分类的线性神经网络（Linear Neural Networks for Classification）](https://github.com/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/04_D2L_Linear_Neural_Networks_for_Classification.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/04_D2L_Linear_Neural_Networks_for_Classification.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [多层感知机 （Multilayer Perceptrons）](https://github.com/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/05_D2L_Multilayer_Perceptrons.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/05_D2L_Multilayer_Perceptrons.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
+| [深度学习计算 （Builders’ Guide）](https://github.com/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/06_D2L_Builders_Guide.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/06_D2L_Builders_Guide.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 </table>
+
 
 ## Cite
 
