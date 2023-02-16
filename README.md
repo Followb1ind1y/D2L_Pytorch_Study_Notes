@@ -32,6 +32,7 @@ This repository includes PyTorch study notes from the original [Dive Into Deep L
 | [深度学习计算 （Builders’ Guide）](https://github.com/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/06_D2L_Builders_Guide.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/06_D2L_Builders_Guide.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [卷积神经网络 （Convolutional Neural Networks）](https://github.com/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/07_D2L_Convolutional_Neural_Networks.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/07_D2L_Convolutional_Neural_Networks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 | [经典卷积神经网络 （Modern Convolutional Neural Networks）](https://github.com/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/08_D2L_Modern_CNNs.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/08_D2L_Modern_CNNs.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
+| [优化算法 （Optimization Algorithms）](https://github.com/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/12_D2L_Optimization_Algorithms.ipynb) | <a href="https://colab.research.google.com/github/Followb1ind1y/D2L_Pytorch_Study_Notes/blob/main/12_D2L_Optimization_Algorithms.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> |
 </table>
 
 
